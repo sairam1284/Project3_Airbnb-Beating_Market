@@ -31,7 +31,7 @@ As much as I love working in an office, I have always been interested having a h
 
 ----
 ### Key Takeaways
-**Obvious** Factors below by far played the largest role in determining cash flow for a given listing. 
+**Obvious:** Factors below by far played the largest role in determining cash flow for a given listing. 
     
    * Size, Distance from City Center, Number of people that can be accommodated, and Number of Bedrooms
 
