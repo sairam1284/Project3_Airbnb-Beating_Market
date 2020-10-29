@@ -31,12 +31,9 @@ As much as I love working in an office, I have always been interested having a h
 
 ----
 ### Key Takeaways
-**Obvious:** Factors below by far played the largest role in determining cash flow for a given listing. 
-    
-   * Size, Distance from City Center, Number of people that can be accommodated, and Number of Bedrooms
+**Unsurprisingly:** Size, Distance from City Center, Number of people that can be accommodated, and Number of Bedrooms played by far the largest role in determining cash flow.  Honestly, this doesn't really reveal anything you already don't know. 
 
-**Honestly, this doesn't really reveal anything you already don't know. Here are a few things that did surprise me!!**
-
+**Here are a few things that did surprise me!!**
    * Bed Type had low impact.  This is important if you have a smaller place with an extra sofa.  You can claim that sofa as a bed and increase the number of people that your place can accommodate
    * Flexible Cancellation policy had a low impact.  This means that you could shift to a more strict policy and shield yourself from lost out on income due to last minute cancellations
    * Having more amenities matters, even if you don't think they are important(i.e. shampoo, toaster)
