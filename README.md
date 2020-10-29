@@ -11,10 +11,10 @@ As much as I love working in an office, I have always been interested purchasing
 
 ---
 ### Tools Used
-1. SQL to create and extract the data. [Data Generation]
-1. Pandas, Numpy, Regex and Linear Regression to engineer various features. [Data Cleaning] 
-1. Seaborn, Folium and Choropleth to visualize the data. [EDA]
-1. Random Forest, Logistic Regression, and Support Vector Classification algorithms to classify homes in a "Above Average"/"Below Average" bucket. [Classification]
+1. SQL to create and extract the data.https://github.com/sairam1284/Project3_predict_rental_income/blob/main/Prj3-Part_0-Create_Sql_Table.ipynb
+1. Pandas, Numpy, Regex and Linear Regression to engineer various features. https://github.com/sairam1284/Project3_predict_rental_income/blob/main/Prj3-Part_2-Data_Cleaning.ipynb
+1. Seaborn, Folium and Choropleth to visualize the data. https://github.com/sairam1284/Project3_predict_rental_income/blob/main/Prj3-Part_3-EDA.ipynb
+1. Random Forest, Logistic Regression, and Support Vector Classification algorithms to classify homes in a "Above Average"/"Below Average" bucket. https://github.com/sairam1284/Project3_predict_rental_income/blob/main/Prj3-Part_4-Data_Modeling.ipynb
 
 ---
 ### Features  
