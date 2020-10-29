@@ -6,7 +6,7 @@ Using historic Airbnb Data for the city of Berlin; is it possible to determine w
    * **Data** - Kaggle has a comprehensive dataset of every Airbnb listing in the city of Berlin (~22,000 homes).  In addition it contains rental history for every home in the above list which should give a good idea of the vacancy rate for each home. Dataset can be found here: [Berlin Airbnb](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data)
    * *Why Berlin? I purposely wanted a city that I know nothing about.  I wanted the data to tell the story and not any any prior knowledge I had about the local housing market.* 
 
-![Philadelphia's Magic Gardens. This place was so cool!](/Images/Map_Image.png"Philadelphia's Magic Gardens")
+![Berlin Airbnb map](/Images/Map_Image.png)
 
 
 **Motivation:**
@@ -29,6 +29,8 @@ As much as I love working in an office, I have always been interested purchasing
     * Distance from the city center
     * Number of amenities
     * Length of the description field
+    
+![Cash Flow Visualization](/Images/size_cash_flow.png)
 
 ----
 ### Key Takeaways
@@ -41,4 +43,4 @@ As much as I love working in an office, I have always been interested purchasing
    * Bed Type had low impact.  This is important if you have a smaller place with an extra sofa.  You can claim that sofa as a bed and increase the number of people that your place can accommodate
    * Flexible Cancellation policy had a low impact.  This means that you could shift to a more strict policy and shield yourself from lost out on income due to last minute cancellations
    * Having more amenities matters, even if you don't think they are important(i.e. shampoo, toaster)
-   * Simply having a more detailed description had a small effect on increasing your monthly cash flow. 
+   * Simply having a more detailed description had an effect on increasing your monthly cash flow. 
