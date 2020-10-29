@@ -35,6 +35,6 @@ As much as I love working in an office, I have always been interested having a h
 
 **Here are a few things that did surprise me!!**
    * Bed Type had low impact.  This is important if you have a smaller place with an extra sofa.  You can claim that sofa as a bed and increase the number of people that your place can accommodate
-   * Flexible Cancellation policy had a low impact.  This means that you could shift to a more strict policy and shield yourself from lost out on income due to last minute cancellations
+   * Flexible Cancellation policy had a low impact.  This means that you could shift to a more strict policy and shield yourself from lost income due to last minute cancellations
    * Having more amenities matters, even if you don't think they are important(i.e. shampoo, toaster)
    * Simply having a more detailed description had an effect on increasing your monthly cash flow. 
